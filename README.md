@@ -37,14 +37,14 @@ Blast output and analysis from de novo assembly of Carmel Exposed and Control RN
 -[gen_workflow](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/gen_workflows.ipynb)   
 -[OA_MS_data_check](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OA_MS_data_check.ipynb)   
 -[OlyO_Chi_Exp](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_Chi_Exp.ipynb)   
--[OlyO_PacBio](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_PacBio.ipynb)   
+-[OlyO_PacBis](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_PacBio.ipynb)   
 -[OsHV_host](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OsHV_host.ipynb)   
 -[Ruphi_OA_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/Ruphi_OA_RNAseq.ipynb)   
 -[TJGR_Mgo_Expressions](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_Mgo_Expression.ipynb)   
 -[TJGR_OysterGenome_IGV](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)  
 -[TJGR_pearls](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_pearl.ipynb)
 
-To view any other notebook page simply insert the file name at the end of this url `http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/`   
+To view any other notebook page not listed above, simply insert the file name at the end of this url `http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/`   
 Files (and names) can be [found here](https://github.com/sr320/ipython_nb).
 
 --- 
