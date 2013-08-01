@@ -13,14 +13,14 @@ Since June 2013 I have been experimenting with [IPython](http://ipython.org/) as
 
 ###Recent Activity
 
-#####[Developing Canonical Tracks for IGV Oyster Genome Browser](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)
+####[Developing Canonical Tracks for IGV Oyster Genome Browser](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)
 
 An attempt derive [fundamental genomic tracks](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb#qURL) for the oyster genome that can be easily visualized.   
 
 
 ---
 
-#####[Black Abalone Digestive Gland Transcriptome Annotation](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
+####[Black Abalone Digestive Gland Transcriptome Annotation](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
 
 Blast output and analysis from de novo assembly of Carmel Exposed and Control RNA-Seq Libraries
 
