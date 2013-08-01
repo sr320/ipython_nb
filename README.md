@@ -11,7 +11,7 @@ Since June 2013 I have been experimenting with [IPython](http://ipython.org/) as
 
 ---
 
-###Active Projects
+###Recent Activity
 
 #####[Developing Canonical Tracks for IGV Oyster Genome Browser](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)
 
@@ -26,10 +26,29 @@ Blast output and analysis from de novo assembly of Carmel Exposed and Control RN
 
 
 ---   
-To view any notebook simply the insert file name at the end of this url `http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/`
- 
+###Almost everything else
+ -[BiGill_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_RNAseq.ipynb)   
+-[BiGill_Tran_Elements](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_Tran_Elements.ipynb)   
+-[BiGo_GFF_dev](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_GFF_dev.ipynb)   
+-[BiGo_methratio](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_methratio.ipynb)    
+-[BiGo_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_RNAseq.ipynb)   
+-[BlackAb_Annot](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
+-[BLAST_qpx](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BLAST_qpx.ipynb)   
+-[gen_workflow](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/gen_workflows.ipynb)   
+-[OA_MS_data_check](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OA_MS_data_check.ipynb)   
+-[OlyO_Chi_Exp](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_Chi_Exp.ipynb)   
+-[OlyO_PacBis](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_PacBio.ipynb)   
+-[OsHV_host](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OsHV_host.ipynb)   
+-[Ruphi_OA_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/Ruphi_OA_RNAseq.ipynb)   
+-[TJGR_Mgo_Expressions](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_Mgo_Expression.ipynb)   
+-[TJGR_OysterGenome_IGV](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)  
+-[TJGR_pearls](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_pearl.ipynb)
+
+To view any other notebook page simply insert the file name at the end of this url `http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/`   
+Files (and names) can be [found here](https://github.com/sr320/ipython_nb).
+
 --- 
-###More about me
+###More
 -[Roberts Lab Website](http://faculty.washington.edu/sr320/)    
 -[Roberts Lab Wiki](http://genefish.wikispaces.com/)   
 -[way too much](http://faculty.washington.edu/sr320/?page_id=3577)   
