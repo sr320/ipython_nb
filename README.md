@@ -49,7 +49,10 @@ Files (and names) can be [found here](https://github.com/sr320/ipython_nb).
 
 --- 
 ###Before IPython?
-Before 
+Between 2010 - 2013 my notebook platform of choice was Evernote. You can access the notebook ..    
+- **[hosted on Evernote](https://www.evernote.com/pub/sr320/lab)**   
+- [archived online in plain text](http://eagle.fish.washington.edu/trilobite/sr320_labnotebook_060113.enex/)   
+- [download ZIP archive of the .enex file](http://eagle.fish.washington.edu/trilobite/LabNotebook080113.enex.zip)(1.32GB)
 
 
 
