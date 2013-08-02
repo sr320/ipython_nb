@@ -48,6 +48,12 @@ To view any other notebook page not listed above, simply insert the file name at
 Files (and names) can be [found here](https://github.com/sr320/ipython_nb).
 
 --- 
+###Before IPython?
+Before 
+
+
+
+--- 
 ###More
 -[Roberts Lab Website](http://faculty.washington.edu/sr320/)    
 -[Roberts Lab Wiki](http://genefish.wikispaces.com/)   
