@@ -21,7 +21,7 @@ screenshot:
 
 ### Convert csv to tab
 
-**code:** `tr ',' "\t" </Users/sr320/Desktop/Ruphi\ Enriched\ Genes.csv> /Users/sr320/Desktop/Ruphi\ Enriched\ Genes.txt`
+**code:** `!tr ',' "\t" </Users/sr320/Desktop/Ruphi\ Enriched\ Genes.csv> /Users/sr320/Desktop/Ruphi\ Enriched\ Genes.txt`
 
 ---
 
@@ -46,5 +46,5 @@ screenshot:
 
 ```
 !sed 's/Roberts_20100712_CC_F3_trimmed/Haliotis_cra_v3/g' </Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_c> /Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_d
-#sed 's/abc/XYZ/g' <infile >outfile
+#sed 's/abc/XYZ/g' <infile> outfile
 ```
