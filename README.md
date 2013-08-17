@@ -40,6 +40,8 @@ Blast output and analysis from de novo assembly of Carmel Exposed and Control RN
 -[OlyO_PacBis](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_PacBio.ipynb)   
 -[OsHV_host](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OsHV_host.ipynb)   
 -[Ruphi_OA_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/Ruphi_OA_RNAseq.ipynb)   
+-[TJGR_CpG_binding](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_CpG_binding.ipynb)   
+-[TJGR_CpG_islands](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_CpG_islands.ipynb)       
 -[TJGR_Mgo_Expressions](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_Mgo_Expression.ipynb)   
 -[TJGR_OysterGenome_IGV](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)  
 -[TJGR_pearls](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_pearl.ipynb)
