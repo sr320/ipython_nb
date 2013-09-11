@@ -37,6 +37,10 @@ screenshot:
 **code:** `!tail -n +2 /Volumes/web/cnidarian/BiGo_methratio_boop.gff > /Volumes/web/cnidarian/BiGo_methratio_boop_c.gff`
 
 
+---
+### Remove lines containing
+**code:**  `!grep -Ev '>' /Volumes/web/Mollusk/174gm_analysis/GenomeTracks_Fastas/Exons.fa > /Users/sr320/Desktop/tst.txt`
+
 ---   
 
 ### Find and Replace   
