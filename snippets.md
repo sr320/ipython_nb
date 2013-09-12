@@ -30,9 +30,12 @@ screenshot:
 **code:** `cp ncbi-blast-2.2.27+/bin/* /usr/local/bin`
 
 ---
+###Remove duplicate lines
+**code:** `!uniq  /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1.gff  > /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1u.gff`
 
+---
 
-### Remove First line of file
+### Remove first line of file
 
 **code:** `!tail -n +2 /Volumes/web/cnidarian/BiGo_methratio_boop.gff > /Volumes/web/cnidarian/BiGo_methratio_boop_c.gff`
 
@@ -52,3 +55,5 @@ screenshot:
 !sed 's/Roberts_20100712_CC_F3_trimmed/Haliotis_cra_v3/g' </Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_c> /Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_d
 #sed 's/abc/XYZ/g' <infile> outfile
 ```
+
+
