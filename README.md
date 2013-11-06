@@ -29,7 +29,9 @@ Blast output and analysis from de novo assembly of Carmel Exposed and Control RN
 ###Almost everything else
  -[BiGill_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_RNAseq.ipynb)   
 -[BiGill_Tran_Elements](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_Tran_Elements.ipynb)   
--[BiGo_GFF_dev](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_GFF_dev.ipynb)   
+-[BiGo_GFF_dev](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_GFF_dev.ipynb)  
+-[BiGo_larvae](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_larvae.ipynb)   
+-[BiGo_larvae_methylkit](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_larvae_methylkit.ipynb)   
 -[BiGo_methratio](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_methratio.ipynb)    
 -[BiGo_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_RNAseq.ipynb)   
 -[BlackAb_Annot](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
