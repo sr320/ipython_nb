@@ -1,55 +1,21 @@
-###History of My Lab Notebook
+#My Lab Notebook
+*powered by IPython*
 
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Notebook.key_17A95E26.png" alt="Notebook.key_17A95E26.png"/>
-
-
----
-
-###About
-Since June 2013 I have been experimenting with [IPython](http://ipython.org/) as my lab notebook. This page is meant to serve as the forward facing access portal for the public (those not interested in the .pynb files). Anyone can download all the files ([zip file](https://github.com/sr320/ipython_nb/zipball/master), [project on GitHub](https://github.com/sr320/ipython_nb)) to view (and execute) in [IPython](http://ipython.org/). Below are links to some active project entries rendered in the [IPython Notebook Viewer](http://nbviewer.ipython.org/).
-
----
-
-###Recent Activity
-
-####[Developing Canonical Tracks for IGV Oyster Genome Browser](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)
-
-An attempt derive [fundamental genomic tracks](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb#qURL) for the oyster genome that can be easily visualized.   
+Since June 2013 I have been using [IPython](http://ipython.org/) as my lab notebook. This page is meant to serve as the forward facing access portal for the public (those not interested in the .pynb files). Anyone can download all the files ([zip file](https://github.com/sr320/ipython_nb/zipball/master), [project on GitHub](https://github.com/sr320/ipython_nb)) to view (and execute) in [IPython](http://ipython.org/). Below are links to some active project entries rendered in the [IPython Notebook Viewer](http://nbviewer.ipython.org/).
 
 
 ---
 
-####[Black Abalone Digestive Gland Transcriptome Annotation](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
-
-Blast output and analysis from de novo assembly of Carmel Exposed and Control RNA-Seq Libraries
+[BiGill_RNAseq](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGill_RNAseq.ipynb)    [BiGill_Tran_Elements](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGill_Tran_Elements.ipynb)    [BiGill_array](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGill_array.ipynb)    [BiGo - methratio error](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo - methratio error.ipynb)    [BiGo_GFF_dev](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_GFF_dev.ipynb)    [BiGo_RNAseq](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_RNAseq.ipynb)    [BiGo_larvae](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_larvae.ipynb)    [BiGo_larvae_2](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_larvae_2.ipynb)    [BiGo_larvae_methylkit](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_larvae_methylkit.ipynb)    [BiGo_methratio](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_methratio.ipynb)    [BiGo_methratio_mito](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BiGo_methratio_mito.ipynb)    [BlackAb_Annot](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/BlackAb_Annot.ipynb)    [CC_ampk](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/CC_ampk.ipynb)    [EY_methratio](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/EY_methratio.ipynb)     [LT_C1q](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/LT_C1q.ipynb)       [OlyO_Chi_Exp](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/OlyO_Chi_Exp.ipynb)    [OlyO_GonadExp](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/OlyO_GonadExp.ipynb)    [OlyO_PacBio](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/OlyO_PacBio.ipynb)    [OlyO_transcriptome](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/OlyO_transcriptome.ipynb)    [OsHV_host](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/OsHV_host.ipynb)          [Ruphi_OA_RNAseq](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/Ruphi_OA_RNAseq.ipynb)    [TJGR_CpG_binding](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_CpG_binding.ipynb)    [TJGR_CpG_islands](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_CpG_islands.ipynb)    [TJGR_Methylation_GenomeSnapshot](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_Methylation_GenomeSnapshot.ipynb)    [TJGR_Mgo_Expression](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_Mgo_Expression.ipynb)    [TJGR_OysterGenome_IGV](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_OysterGenome_IGV.ipynb)    [TJGR_ProteinAnnot](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_ProteinAnnot.ipynb)    [TJGR_pearl](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/TJGR_pearl.ipynb)    [UW_SoftwareBootcamp](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/UW_SoftwareBootcamp.ipynb)    
 
 
----   
-###Almost everything else
- -[BiGill_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_RNAseq.ipynb)   
--[BiGill_Tran_Elements](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGill_Tran_Elements.ipynb)   
--[BiGo_GFF_dev](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_GFF_dev.ipynb)  
--[BiGo_larvae](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_larvae.ipynb)   
--[BiGo_larvae_methylkit](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_larvae_methylkit.ipynb)   
--[BiGo_methratio](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_methratio.ipynb)    
--[BiGo_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BiGo_RNAseq.ipynb)   
--[BlackAb_Annot](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BlackAb_Annot.ipynb)   
--[BLAST_qpx](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/BLAST_qpx.ipynb)   
--[gen_workflow](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/gen_workflows.ipynb)   
--[OA_MS_data_check](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OA_MS_data_check.ipynb)   
--[OlyO_Chi_Exp](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_Chi_Exp.ipynb)   
--[OlyO_PacBis](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OlyO_PacBio.ipynb)   
--[OsHV_host](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/OsHV_host.ipynb)   
--[Ruphi_OA_RNAseq](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/Ruphi_OA_RNAseq.ipynb)   
--[TJGR_CpG_binding](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_CpG_binding.ipynb)   
--[TJGR_CpG_islands](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_CpG_islands.ipynb)       
--[TJGR_Mgo_Expressions](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_Mgo_Expression.ipynb)   
--[TJGR_OysterGenome_IGV](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_OysterGenome_IGV.ipynb)  
--[TJGR_pearls](http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/TJGR_pearl.ipynb)
+---
+###Tools
+In addition to using IPython as platform for documenting my work, I am beginning to develop automated workflows in IPython. Here is my first attempt.
+It takes a fasta file and provides a graph showing representive GO terms. 
 
-To view any other notebook page not listed above, simply insert the file name at the end of this url `http://nbviewer.ipython.org/urls/raw.github.com/sr320/ipython_nb/master/`   
-Files (and names) can be [found here](https://github.com/sr320/ipython_nb).
+- [fasta2goslim](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/tools/fasta2goslim.ipynb)  
+
 
 --- 
 ###Before IPython?
@@ -57,7 +23,6 @@ Between 2010 - 2013 my notebook platform of choice was Evernote. You can access 
 - **[hosted on Evernote](https://www.evernote.com/pub/sr320/lab)**   
 - [archived online in plain text](http://eagle.fish.washington.edu/trilobite/sr320_labnotebook_060113.enex/)   
 - [download ZIP archive of the .enex file](http://eagle.fish.washington.edu/trilobite/LabNotebook080113.enex.zip) (1.32GB)
-
 
 
 --- 
