@@ -14,7 +14,7 @@ Since June 2013 I have been using [IPython](http://ipython.org/) as my lab noteb
 In addition to using IPython as platform for documenting my work, I am beginning to develop automated workflows in IPython. Here is my first attempt.
 It takes a fasta file and provides a graph showing representive GO terms. 
 
-- [fasta2goslim](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/tools/fasta2goslim.ipynb)  
+- [fasta2goslim](http://nbviewer.ipython.org/github/sr320/ipython_nb/blob/master/tools/fasta2goslim.ipynb)
 
 
 --- 
