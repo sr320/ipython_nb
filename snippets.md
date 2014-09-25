@@ -1,6 +1,5 @@
----  
 
-### Sum Column in Tab Delimited File
+### Sum Column in Tab Delimited File   
 
 **code:** `cat /Volumes/web/cnidarian/TGR_intersectbed_CDS_v9_CGmotif.txt | awk -F"\t" '{ sum+=$10} END {print sum}'`
 
@@ -30,7 +29,7 @@ screenshot:
 **code:** `cp ncbi-blast-2.2.27+/bin/* /usr/local/bin`
 
 ---
-###Remove duplicate lines
+### Remove duplicate lines
 **code:** `!uniq  /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1.gff  > /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1u.gff`
 
 ---
@@ -48,12 +47,21 @@ screenshot:
 
 ### Find and Replace   
 
-
 **code:**    
 
 ```
 !sed 's/Roberts_20100712_CC_F3_trimmed/Haliotis_cra_v3/g' </Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_c> /Volumes/web/cnidarian/lft_BlackAbalone_v3_swissprot_blastout_d
 #sed 's/abc/XYZ/g' <infile> outfile
+```
+
+--- 
+### Insert lines 
+
+**code:**    
+
+```
+!echo TE ID > title
+!cat title /TE_WUBonly_CGI.txt > /TE_WUBonly_CGI_b.txt
 ```
 
 
